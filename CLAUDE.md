@@ -72,6 +72,6 @@ Only update CLAUDE.md if you have **genuinely reusable knowledge** that would he
 
 ## Personal Notes
 
-<!-- Personal reminders for my fork -->
-- Always double-check that `progress.txt` exists before appending; create it with the Codebase Patterns header if missing.
-- Prefer small, focused commits — one story per commit, no bundling unrelated fixes.
+> Forked for learning purposes. When experimenting with new stories, it's fine to work directly
+> on a local branch without pushing — only push when the full story passes all quality checks.
+> Prefer small, focused commits over large ones to make the git history easier to follow.
